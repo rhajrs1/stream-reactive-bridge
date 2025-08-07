@@ -4,7 +4,7 @@
 
 Stream Reactive Bridge is a connector program that links the Chzzk (치지직) donation system with DRG's (Deep Rock Galactic) Stream Reactive Mod. It acts as a bridge to enable spawning monsters, waves, and supplies in-game based on Chzzk donations. The full system consists of the following components:
 
-DRG Stream Reactive Mod
+[DRG Stream Reactive Mod](https://mod.io/g/drg/m/stream-reactive-chzzk)
 
 Stream Reactive Bridge (this program)
 
