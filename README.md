@@ -21,9 +21,13 @@ Your Chzzk account must be set up for donations.
 3. Configure the Bridge Program
 Run the Stream Reactive Bridge executable.
 
+<img width="486" height="593" alt="image" src="https://github.com/user-attachments/assets/998594b1-b886-4636-9a36-2718c013cb3c" />
+
 Click the "Login with Chzzk" button to start the authentication process.
 
 The login is handled via the OAuth standard. The developer of this program does not have access to your ID/password.
+
+<img width="486" height="593" alt="image" src="https://github.com/user-attachments/assets/d79c7a80-036b-4b02-8762-7a9e44fe6679" />
 
 After logging in, set the Game Folder location.
 By default, if you installed DRG via Steam, the folder is:
