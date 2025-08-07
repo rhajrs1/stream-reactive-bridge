@@ -12,7 +12,7 @@ Chzzk Streaming Account
 
 ## Setup Guide
 
-1. Install DRG and Stream Reactive Mod
+1. Install DRG and [Stream Reactive Mod](https://mod.io/g/drg/m/stream-reactive-chzzk)
 Make sure Deep Rock Galactic and the Stream Reactive Mod are installed.
 
 2. Prepare Your Chzzk Streaming Account
